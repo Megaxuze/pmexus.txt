@@ -1,10 +1,8 @@
 JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m@geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-CYjW3Oq5_lifetime-30m@geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-xmUj7aY0_lifetime-30m@geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-KDMwNuup_lifetime-30m@geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-xyM9bRS1_lifetime-30m@geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-9Z1tsW7V_lifetime-30m@geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-BMeep30p_lifetime-30m@geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-ux32zN6J_lifetime-30m@geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-wJkk9HEY_lifetime-30m@geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-ixPspwUU_lifetime-30m@geo.iproyal.com:32325
+geo.iproyal.com:32325:JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m
+geo.iproyal.com:32325@JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m
+JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m:geo.iproyal.com:32325
+JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m@geo.iproyal.com:12321
+JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m:geo.iproyal.com:12321
+geo.iproyal.com:12321@JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m
+geo.iproyal.com:12321:JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m
