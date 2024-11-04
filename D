@@ -2,5 +2,5 @@ http://user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.c
 socks5://51.83.116.5:34150
 gate.smartproxy.com:10001:user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax
 https://user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:10001
-socks5h://user-sphvi7bheu-session-1-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
+socks5://user-sphvi7bheu-session-1-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
 http://sphvi7bheu:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
