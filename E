@@ -1,2 +1,4 @@
-socks5://brd-customer-hl_2e35f676-zone-residential_proxy1:3u6ph59wv8iz@brd.superproxy.io:22225
-brd-customer-hl_2e35f676-zone-residential_proxy1:3u6ph59wv8iz@brd.superproxy.io:22225
+socks5h://user-sphvi7bheu-session-4-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
+socks5h://user-sphvi7bheu-session-3-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
+socks5h://user-sphvi7bheu-session-2-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
+socks5h://user-sphvi7bheu-session-1-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
