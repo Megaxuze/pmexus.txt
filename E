@@ -1,2 +1,1 @@
-socks5://user-sphvi7bheu-session-1-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
-http://user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:10001
+sphvi7bheu:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
