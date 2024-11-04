@@ -1,4 +1,4 @@
-socks5h://user-sphvi7bheu-session-4-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
-socks5h://user-sphvi7bheu-session-3-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
-socks5h://user-sphvi7bheu-session-2-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
-socks5h://user-sphvi7bheu-session-1-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
+user-sphvi7bheu-session-4-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
+user-sphvi7bheu-session-3-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
+user-sphvi7bheu-session-2-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
+user-sphvi7bheu-session-1-sessionduration-1440-country-jp:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
