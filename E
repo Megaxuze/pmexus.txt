@@ -1,2 +1,6 @@
-socks5h://sphvi7bheu:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
-sphvi7bheu:mfDto2TlRd83=7Aeax@gate.smartproxy.com:7000
+http://user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:10001
+http://user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:10002
+http://user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:10003
+http://user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:10004
+http://user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:10005
+http://user-sphvi7bheu-sessionduration-1440:mfDto2TlRd83=7Aeax@gate.smartproxy.com:10006
