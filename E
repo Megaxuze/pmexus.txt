@@ -1,8 +1,2 @@
-JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m@geo.iproyal.com:32325
-geo.iproyal.com:32325:JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m
-geo.iproyal.com:32325@JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m
-JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m:geo.iproyal.com:32325
-JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m@geo.iproyal.com:12321
-JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m:geo.iproyal.com:12321
-geo.iproyal.com:12321@JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m
-geo.iproyal.com:12321:JINGoAujyg6QCrZT:ruruna_country-jp_session-t5exjivP_lifetime-30m
+socks5://brd-customer-hl_2e35f676-zone-residential_proxy1:3u6ph59wv8iz@brd.superproxy.io:22225
+brd-customer-hl_2e35f676-zone-residential_proxy1:3u6ph59wv8iz@brd.superproxy.io:22225
